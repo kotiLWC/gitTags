@@ -1,6 +1,6 @@
 Git Commands
 git config
-Usage: git config –-global user.name “kotilwc”  
+Usage: git config –-global user.name “kotiLWC”  
 
 Usage: git config –-global user.email "kotijahnavi@gmail.com"  
 
